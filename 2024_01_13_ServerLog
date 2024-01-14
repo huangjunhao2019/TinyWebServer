@@ -1,0 +1,548 @@
+2024-01-13 13:22:50.696776 [erro]: MySQL Error
+2024-01-13 13:23:05.617868 [erro]: MySQL Error
+2024-01-13 13:29:31.482718 [erro]: MySQL Error
+2024-01-13 13:29:34.531430 [erro]: MySQL Error
+2024-01-13 13:30:34.923524 [erro]: MySQL Error
+2024-01-13 13:57:10.607904 [info]: timer tick
+2024-01-13 13:57:15.607968 [info]: timer tick
+2024-01-13 13:57:20.608028 [info]: timer tick
+2024-01-13 13:57:25.608074 [info]: timer tick
+2024-01-13 13:57:30.608125 [info]: timer tick
+2024-01-13 13:57:35.608172 [info]: timer tick
+2024-01-13 13:57:40.608245 [info]: timer tick
+2024-01-13 13:57:45.608304 [info]: timer tick
+2024-01-13 13:57:50.608370 [info]: timer tick
+2024-01-13 13:57:55.608422 [info]: timer tick
+2024-01-13 13:58:00.608488 [info]: timer tick
+2024-01-13 13:58:05.608524 [info]: timer tick
+2024-01-13 13:58:10.608566 [info]: timer tick
+2024-01-13 13:58:15.608626 [info]: timer tick
+2024-01-13 13:58:20.608675 [info]: timer tick
+2024-01-13 13:58:25.608732 [info]: timer tick
+2024-01-13 13:58:30.608785 [info]: timer tick
+2024-01-13 13:58:35.608833 [info]: timer tick
+2024-01-13 13:58:40.608898 [info]: timer tick
+2024-01-13 13:58:45.608945 [info]: timer tick
+2024-01-13 13:58:50.608982 [info]: timer tick
+2024-01-13 13:58:55.609039 [info]: timer tick
+2024-01-13 13:59:00.609094 [info]: timer tick
+2024-01-13 13:59:05.609149 [info]: timer tick
+2024-01-13 13:59:10.609212 [info]: timer tick
+2024-01-13 13:59:15.609254 [info]: timer tick
+2024-01-13 13:59:20.609303 [info]: timer tick
+2024-01-13 13:59:25.609356 [info]: timer tick
+2024-01-13 13:59:30.609400 [info]: timer tick
+2024-01-13 13:59:35.609462 [info]: timer tick
+2024-01-13 13:59:40.609521 [info]: timer tick
+2024-01-13 13:59:45.609572 [info]: timer tick
+2024-01-13 13:59:50.609642 [info]: timer tick
+2024-01-13 13:59:55.609706 [info]: timer tick
+2024-01-13 14:00:00.609773 [info]: timer tick
+2024-01-13 14:00:05.609823 [info]: timer tick
+2024-01-13 14:00:10.609877 [info]: timer tick
+2024-01-13 14:00:15.609938 [info]: timer tick
+2024-01-13 14:00:20.609975 [info]: timer tick
+2024-01-13 14:00:25.610018 [info]: timer tick
+2024-01-13 14:00:30.610089 [info]: timer tick
+2024-01-13 14:00:35.610134 [info]: timer tick
+2024-01-13 14:00:40.610202 [info]: timer tick
+2024-01-13 14:00:45.610265 [info]: timer tick
+2024-01-13 14:00:50.610335 [info]: timer tick
+2024-01-13 14:00:55.610380 [info]: timer tick
+2024-01-13 14:01:00.610445 [info]: timer tick
+2024-01-13 14:01:05.610512 [info]: timer tick
+2024-01-13 14:01:10.610562 [info]: timer tick
+2024-01-13 14:01:15.610630 [info]: timer tick
+2024-01-13 14:01:20.610702 [info]: timer tick
+2024-01-13 14:01:25.610760 [info]: timer tick
+2024-01-13 14:01:30.610818 [info]: timer tick
+2024-01-13 14:01:35.610899 [info]: timer tick
+2024-01-13 14:01:40.610991 [info]: timer tick
+2024-01-13 14:01:45.611052 [info]: timer tick
+2024-01-13 14:01:50.611110 [info]: timer tick
+2024-01-13 14:01:55.611173 [info]: timer tick
+2024-01-13 14:02:00.611274 [info]: timer tick
+2024-01-13 14:02:05.611322 [info]: timer tick
+2024-01-13 14:02:10.611395 [info]: timer tick
+2024-01-13 14:02:15.611459 [info]: timer tick
+2024-01-13 14:02:20.611537 [info]: timer tick
+2024-01-13 14:02:25.611599 [info]: timer tick
+2024-01-13 14:02:28.248280 [info]: deal with the client(115.156.142.216)
+2024-01-13 14:02:28.248333 [info]: adjust timer once
+2024-01-13 14:02:28.248400 [info]: GET / HTTP/1.1
+2024-01-13 14:02:28.248442 [info]: Host: 110.41.54.5:9006
+2024-01-13 14:02:28.248447 [info]: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2024-01-13 14:02:28.248451 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2024-01-13 14:02:28.248454 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-01-13 14:02:28.248458 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-01-13 14:02:28.248471 [info]: Accept-Encoding: gzip, deflate
+2024-01-13 14:02:28.248474 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-01-13 14:02:28.248478 [info]: Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7
+2024-01-13 14:02:28.248483 [info]: oop!unknow header: Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7
+2024-01-13 14:02:28.248488 [info]: Upgrade-Insecure-Requests: 1
+2024-01-13 14:02:28.248493 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-01-13 14:02:28.248499 [info]: 
+2024-01-13 14:02:28.248522 [info]: request:HTTP/1.1 200 OK
+
+2024-01-13 14:02:28.248531 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+
+2024-01-13 14:02:28.248536 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:close
+
+2024-01-13 14:02:28.248539 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:close
+
+
+2024-01-13 14:02:28.249117 [info]: close fd 16
+2024-01-13 14:02:28.411000 [info]: deal with the client(115.156.142.216)
+2024-01-13 14:02:28.411065 [info]: adjust timer once
+2024-01-13 14:02:28.411127 [info]: GET /favicon.ico HTTP/1.1
+2024-01-13 14:02:28.411160 [info]: Host: 110.41.54.5:9006
+2024-01-13 14:02:28.411166 [info]: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2024-01-13 14:02:28.411170 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2024-01-13 14:02:28.411174 [info]: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-01-13 14:02:28.411177 [info]: oop!unknow header: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-01-13 14:02:28.411180 [info]: Accept-Encoding: gzip, deflate
+2024-01-13 14:02:28.411183 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-01-13 14:02:28.411186 [info]: Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7
+2024-01-13 14:02:28.411189 [info]: oop!unknow header: Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7
+2024-01-13 14:02:28.411193 [info]: Referer: http://110.41.54.5:9006/
+2024-01-13 14:02:28.411195 [info]: oop!unknow header: Referer: http://110.41.54.5:9006/
+2024-01-13 14:02:28.411198 [info]: 
+2024-01-13 14:02:28.411215 [info]: request:HTTP/1.1 200 OK
+
+2024-01-13 14:02:28.411242 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+
+2024-01-13 14:02:28.411246 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:close
+
+2024-01-13 14:02:28.411250 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:close
+
+
+2024-01-13 14:02:28.411889 [info]: close fd 16
+2024-01-13 14:02:30.611677 [info]: timer tick
+2024-01-13 14:02:30.935288 [info]: deal with the client(115.156.142.216)
+2024-01-13 14:02:30.935337 [info]: adjust timer once
+2024-01-13 14:02:30.935391 [info]: POST /0 HTTP/1.1
+2024-01-13 14:02:30.935424 [info]: Host: 110.41.54.5:9006
+2024-01-13 14:02:30.935430 [info]: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2024-01-13 14:02:30.935433 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2024-01-13 14:02:30.935437 [info]: Content-Length: 0
+2024-01-13 14:02:30.935441 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-01-13 14:02:30.935444 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-01-13 14:02:30.935447 [info]: Accept-Encoding: gzip, deflate
+2024-01-13 14:02:30.935450 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-01-13 14:02:30.935453 [info]: Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7
+2024-01-13 14:02:30.935456 [info]: oop!unknow header: Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7
+2024-01-13 14:02:30.935480 [info]: Cache-Control: max-age=0
+2024-01-13 14:02:30.935484 [info]: oop!unknow header: Cache-Control: max-age=0
+2024-01-13 14:02:30.935487 [info]: Content-Type: application/x-www-form-urlencoded
+2024-01-13 14:02:30.935490 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2024-01-13 14:02:30.935493 [info]: Origin: http://110.41.54.5:9006
+2024-01-13 14:02:30.935496 [info]: oop!unknow header: Origin: http://110.41.54.5:9006
+2024-01-13 14:02:30.935499 [info]: Referer: http://110.41.54.5:9006/
+2024-01-13 14:02:30.935502 [info]: oop!unknow header: Referer: http://110.41.54.5:9006/
+2024-01-13 14:02:30.935505 [info]: Upgrade-Insecure-Requests: 1
+2024-01-13 14:02:30.935508 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-01-13 14:02:30.935511 [info]: 
+2024-01-13 14:02:30.935528 [info]: request:HTTP/1.1 200 OK
+
+2024-01-13 14:02:30.935535 [info]: request:HTTP/1.1 200 OK
+Content-Length:724
+
+2024-01-13 14:02:30.935538 [info]: request:HTTP/1.1 200 OK
+Content-Length:724
+Connection:close
+
+2024-01-13 14:02:30.935541 [info]: request:HTTP/1.1 200 OK
+Content-Length:724
+Connection:close
+
+
+2024-01-13 14:02:30.936112 [info]: close fd 16
+2024-01-13 14:02:35.611734 [info]: timer tick
+2024-01-13 14:02:37.360983 [info]: deal with the client(115.156.142.216)
+2024-01-13 14:02:37.361038 [info]: adjust timer once
+2024-01-13 14:02:37.361094 [info]: POST /3CGISQL.cgi HTTP/1.1
+2024-01-13 14:02:37.361132 [info]: Host: 110.41.54.5:9006
+2024-01-13 14:02:37.361141 [info]: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2024-01-13 14:02:37.361146 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2024-01-13 14:02:37.361150 [info]: Content-Length: 25
+2024-01-13 14:02:37.361154 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-01-13 14:02:37.361158 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-01-13 14:02:37.361161 [info]: Accept-Encoding: gzip, deflate
+2024-01-13 14:02:37.361164 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-01-13 14:02:37.361167 [info]: Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7
+2024-01-13 14:02:37.361170 [info]: oop!unknow header: Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7
+2024-01-13 14:02:37.361174 [info]: Cache-Control: max-age=0
+2024-01-13 14:02:37.361177 [info]: oop!unknow header: Cache-Control: max-age=0
+2024-01-13 14:02:37.361180 [info]: Content-Type: application/x-www-form-urlencoded
+2024-01-13 14:02:37.361183 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2024-01-13 14:02:37.361186 [info]: Origin: http://110.41.54.5:9006
+2024-01-13 14:02:37.361189 [info]: oop!unknow header: Origin: http://110.41.54.5:9006
+2024-01-13 14:02:37.361192 [info]: Referer: http://110.41.54.5:9006/0
+2024-01-13 14:02:37.361195 [info]: oop!unknow header: Referer: http://110.41.54.5:9006/0
+2024-01-13 14:02:37.361198 [info]: Upgrade-Insecure-Requests: 1
+2024-01-13 14:02:37.361201 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-01-13 14:02:37.361204 [info]: 
+2024-01-13 14:02:37.361207 [info]: user=huang&password=huang
+2024-01-13 14:02:37.397265 [info]: request:HTTP/1.1 200 OK
+
+2024-01-13 14:02:37.397293 [info]: request:HTTP/1.1 200 OK
+Content-Length:725
+
+2024-01-13 14:02:37.397298 [info]: request:HTTP/1.1 200 OK
+Content-Length:725
+Connection:close
+
+2024-01-13 14:02:37.397312 [info]: request:HTTP/1.1 200 OK
+Content-Length:725
+Connection:close
+
+
+2024-01-13 14:02:37.397796 [info]: close fd 16
+2024-01-13 14:02:40.611797 [info]: timer tick
+2024-01-13 14:02:45.611844 [info]: timer tick
+2024-01-13 14:02:50.611902 [info]: timer tick
+2024-01-13 14:02:55.611972 [info]: timer tick
+2024-01-13 14:03:00.612014 [info]: timer tick
+2024-01-13 14:03:05.612083 [info]: timer tick
+2024-01-13 14:03:10.612159 [info]: timer tick
+2024-01-13 14:03:15.612240 [info]: timer tick
+2024-01-13 14:03:20.612306 [info]: timer tick
+2024-01-13 14:03:25.612365 [info]: timer tick
+2024-01-13 14:03:30.612435 [info]: timer tick
+2024-01-13 14:03:35.612490 [info]: timer tick
+2024-01-13 14:03:40.612542 [info]: timer tick
+2024-01-13 14:03:45.612603 [info]: timer tick
+2024-01-13 14:03:50.612661 [info]: timer tick
+2024-01-13 14:03:55.612706 [info]: timer tick
+2024-01-13 14:04:00.612751 [info]: timer tick
+2024-01-13 14:04:05.612819 [info]: timer tick
+2024-01-13 14:04:10.612873 [info]: timer tick
+2024-01-13 14:04:15.612946 [info]: timer tick
+2024-01-13 14:04:20.613014 [info]: timer tick
+2024-01-13 14:04:25.613065 [info]: timer tick
+2024-01-13 14:04:30.613125 [info]: timer tick
+2024-01-13 14:04:35.613193 [info]: timer tick
+2024-01-13 14:04:40.613255 [info]: timer tick
+2024-01-13 14:04:45.613298 [info]: timer tick
+2024-01-13 14:04:50.613348 [info]: timer tick
+2024-01-13 14:04:55.613408 [info]: timer tick
+2024-01-13 14:05:00.613468 [info]: timer tick
+2024-01-13 14:05:05.613521 [info]: timer tick
+2024-01-13 14:05:10.613571 [info]: timer tick
+2024-01-13 14:05:15.613622 [info]: timer tick
+2024-01-13 14:05:20.613666 [info]: timer tick
+2024-01-13 14:05:25.613728 [info]: timer tick
+2024-01-13 14:05:30.613797 [info]: timer tick
+2024-01-13 14:05:35.613857 [info]: timer tick
+2024-01-13 14:05:40.613902 [info]: timer tick
+2024-01-13 14:05:45.613975 [info]: timer tick
+2024-01-13 14:05:50.614031 [info]: timer tick
+2024-01-13 14:05:55.614077 [info]: timer tick
+2024-01-13 14:06:00.614124 [info]: timer tick
+2024-01-13 14:06:05.614192 [info]: timer tick
+2024-01-13 14:06:10.614241 [info]: timer tick
+2024-01-13 14:06:15.614293 [info]: timer tick
+2024-01-13 14:06:20.614359 [info]: timer tick
+2024-01-13 14:06:25.614405 [info]: timer tick
+2024-01-13 14:06:30.614462 [info]: timer tick
+2024-01-13 14:06:35.614523 [info]: timer tick
+2024-01-13 14:06:40.614572 [info]: timer tick
+2024-01-13 14:06:45.614643 [info]: timer tick
+2024-01-13 14:06:50.614700 [info]: timer tick
+2024-01-13 14:06:55.614763 [info]: timer tick
+2024-01-13 14:07:00.614832 [info]: timer tick
+2024-01-13 14:07:05.614900 [info]: timer tick
+2024-01-13 14:07:10.614969 [info]: timer tick
+2024-01-13 14:07:15.615027 [info]: timer tick
+2024-01-13 14:07:20.615082 [info]: timer tick
+2024-01-13 14:07:25.615148 [info]: timer tick
+2024-01-13 14:07:30.615216 [info]: timer tick
+2024-01-13 14:07:35.615281 [info]: timer tick
+2024-01-13 14:07:40.615346 [info]: timer tick
+2024-01-13 14:07:45.615401 [info]: timer tick
+2024-01-13 14:07:50.615482 [info]: timer tick
+2024-01-13 14:07:55.615540 [info]: timer tick
+2024-01-13 14:08:00.615600 [info]: timer tick
+2024-01-13 14:08:05.615650 [info]: timer tick
+2024-01-13 14:08:10.615726 [info]: timer tick
+2024-01-13 14:08:15.615793 [info]: timer tick
+2024-01-13 14:08:20.615852 [info]: timer tick
+2024-01-13 14:08:25.615913 [info]: timer tick
+2024-01-13 14:08:30.615973 [info]: timer tick
+2024-01-13 14:08:35.616032 [info]: timer tick
+2024-01-13 14:08:40.616106 [info]: timer tick
+2024-01-13 14:08:45.616163 [info]: timer tick
+2024-01-13 14:08:50.616229 [info]: timer tick
+2024-01-13 14:08:55.616296 [info]: timer tick
+2024-01-13 14:09:00.616348 [info]: timer tick
+2024-01-13 14:09:05.616401 [info]: timer tick
+2024-01-13 14:09:10.616479 [info]: timer tick
+2024-01-13 14:09:15.616529 [info]: timer tick
+2024-01-13 14:09:20.616583 [info]: timer tick
+2024-01-13 14:09:25.616628 [info]: timer tick
+2024-01-13 14:09:30.616671 [info]: timer tick
+2024-01-13 14:09:35.616714 [info]: timer tick
+2024-01-13 14:09:40.616787 [info]: timer tick
+2024-01-13 14:09:45.616845 [info]: timer tick
+2024-01-13 14:09:50.616932 [info]: timer tick
+2024-01-13 14:09:55.616993 [info]: timer tick
+2024-01-13 14:10:00.617063 [info]: timer tick
+2024-01-13 14:10:05.617134 [info]: timer tick
+2024-01-13 14:10:10.617191 [info]: timer tick
+2024-01-13 14:10:15.617262 [info]: timer tick
+2024-01-13 14:10:20.617320 [info]: timer tick
+2024-01-13 14:10:25.617377 [info]: timer tick
+2024-01-13 14:10:30.617440 [info]: timer tick
+2024-01-13 14:10:35.617494 [info]: timer tick
+2024-01-13 14:10:40.617560 [info]: timer tick
+2024-01-13 14:10:45.617610 [info]: timer tick
+2024-01-13 14:10:50.617670 [info]: timer tick
+2024-01-13 14:10:55.617727 [info]: timer tick
+2024-01-13 14:11:00.617789 [info]: timer tick
+2024-01-13 14:11:05.617865 [info]: timer tick
+2024-01-13 14:11:10.617915 [info]: timer tick
+2024-01-13 14:11:15.617972 [info]: timer tick
+2024-01-13 14:11:20.618016 [info]: timer tick
+2024-01-13 14:11:25.618098 [info]: timer tick
+2024-01-13 14:11:30.618156 [info]: timer tick
+2024-01-13 14:11:35.618212 [info]: timer tick
+2024-01-13 14:11:40.618289 [info]: timer tick
+2024-01-13 14:11:45.618340 [info]: timer tick
+2024-01-13 14:11:50.618398 [info]: timer tick
+2024-01-13 14:11:55.618459 [info]: timer tick
+2024-01-13 14:12:00.618517 [info]: timer tick
+2024-01-13 14:12:05.618568 [info]: timer tick
+2024-01-13 14:12:10.618618 [info]: timer tick
+2024-01-13 14:12:15.618672 [info]: timer tick
+2024-01-13 14:12:20.618717 [info]: timer tick
+2024-01-13 14:12:25.618777 [info]: timer tick
+2024-01-13 14:12:30.618822 [info]: timer tick
+2024-01-13 14:12:35.618875 [info]: timer tick
+2024-01-13 14:12:40.618925 [info]: timer tick
+2024-01-13 14:12:45.618987 [info]: timer tick
+2024-01-13 14:12:50.619054 [info]: timer tick
+2024-01-13 14:12:55.619119 [info]: timer tick
+2024-01-13 14:13:00.619170 [info]: timer tick
+2024-01-13 14:13:05.619223 [info]: timer tick
+2024-01-13 14:13:10.619270 [info]: timer tick
+2024-01-13 14:13:15.619348 [info]: timer tick
+2024-01-13 14:13:20.619417 [info]: timer tick
+2024-01-13 14:13:25.619496 [info]: timer tick
+2024-01-13 14:13:30.619547 [info]: timer tick
+2024-01-13 14:13:35.619600 [info]: timer tick
+2024-01-13 14:13:40.619665 [info]: timer tick
+2024-01-13 14:13:45.619723 [info]: timer tick
+2024-01-13 14:13:50.619780 [info]: timer tick
+2024-01-13 14:13:55.619838 [info]: timer tick
+2024-01-13 14:14:00.619900 [info]: timer tick
+2024-01-13 14:14:05.619957 [info]: timer tick
+2024-01-13 14:14:10.620007 [info]: timer tick
+2024-01-13 14:14:15.620073 [info]: timer tick
+2024-01-13 14:14:20.620127 [info]: timer tick
+2024-01-13 14:14:25.620192 [info]: timer tick
+2024-01-13 14:14:30.620244 [info]: timer tick
+2024-01-13 14:14:35.620290 [info]: timer tick
+2024-01-13 14:14:40.620358 [info]: timer tick
+2024-01-13 14:14:45.620404 [info]: timer tick
+2024-01-13 14:14:50.620460 [info]: timer tick
+2024-01-13 14:14:55.620518 [info]: timer tick
+2024-01-13 14:15:00.620576 [info]: timer tick
+2024-01-13 14:15:05.620613 [info]: timer tick
+2024-01-13 14:15:10.620666 [info]: timer tick
+2024-01-13 14:15:15.620732 [info]: timer tick
+2024-01-13 14:15:20.620783 [info]: timer tick
+2024-01-13 14:15:25.620864 [info]: timer tick
+2024-01-13 14:15:30.620912 [info]: timer tick
+2024-01-13 14:15:35.620962 [info]: timer tick
+2024-01-13 14:15:40.621026 [info]: timer tick
+2024-01-13 14:15:45.621084 [info]: timer tick
+2024-01-13 14:15:50.621158 [info]: timer tick
+2024-01-13 14:15:55.621230 [info]: timer tick
+2024-01-13 14:16:00.621280 [info]: timer tick
+2024-01-13 14:16:05.621333 [info]: timer tick
+2024-01-13 14:16:10.621375 [info]: timer tick
+2024-01-13 14:16:15.621420 [info]: timer tick
+2024-01-13 14:16:20.621468 [info]: timer tick
+2024-01-13 14:16:25.621524 [info]: timer tick
+2024-01-13 14:16:30.621569 [info]: timer tick
+2024-01-13 14:16:35.621622 [info]: timer tick
+2024-01-13 14:16:40.621674 [info]: timer tick
+2024-01-13 14:16:45.621730 [info]: timer tick
+2024-01-13 14:16:50.621831 [info]: timer tick
+2024-01-13 14:16:55.621901 [info]: timer tick
+2024-01-13 14:17:00.621965 [info]: timer tick
+2024-01-13 14:17:05.622038 [info]: timer tick
+2024-01-13 14:17:10.622103 [info]: timer tick
+2024-01-13 14:17:15.622157 [info]: timer tick
+2024-01-13 14:17:20.622213 [info]: timer tick
+2024-01-13 14:17:25.622274 [info]: timer tick
+2024-01-13 14:17:30.622321 [info]: timer tick
+2024-01-13 14:17:35.622387 [info]: timer tick
+2024-01-13 14:17:40.622431 [info]: timer tick
+2024-01-13 14:17:45.622493 [info]: timer tick
+2024-01-13 14:17:50.622549 [info]: timer tick
+2024-01-13 14:17:55.622593 [info]: timer tick
+2024-01-13 14:18:00.622647 [info]: timer tick
+2024-01-13 14:18:05.622708 [info]: timer tick
+2024-01-13 14:18:10.622747 [info]: timer tick
+2024-01-13 14:18:15.622787 [info]: timer tick
+2024-01-13 14:18:20.622842 [info]: timer tick
+2024-01-13 14:18:25.622908 [info]: timer tick
+2024-01-13 14:18:30.622968 [info]: timer tick
+2024-01-13 14:18:35.623039 [info]: timer tick
+2024-01-13 14:18:40.623100 [info]: timer tick
+2024-01-13 14:18:45.623144 [info]: timer tick
+2024-01-13 14:18:50.623202 [info]: timer tick
+2024-01-13 14:18:55.623252 [info]: timer tick
+2024-01-13 14:19:00.623311 [info]: timer tick
+2024-01-13 14:19:05.623366 [info]: timer tick
+2024-01-13 14:19:10.623432 [info]: timer tick
+2024-01-13 14:19:15.623498 [info]: timer tick
+2024-01-13 14:19:20.623548 [info]: timer tick
+2024-01-13 14:19:25.623590 [info]: timer tick
+2024-01-13 14:19:30.623637 [info]: timer tick
+2024-01-13 14:19:35.623699 [info]: timer tick
+2024-01-13 14:19:40.623760 [info]: timer tick
+2024-01-13 14:19:45.623812 [info]: timer tick
+2024-01-13 14:19:50.623874 [info]: timer tick
+2024-01-13 14:19:55.623925 [info]: timer tick
+2024-01-13 14:20:00.623986 [info]: timer tick
+2024-01-13 14:20:05.624032 [info]: timer tick
+2024-01-13 14:20:10.624072 [info]: timer tick
+2024-01-13 14:20:15.624118 [info]: timer tick
+2024-01-13 14:20:20.624180 [info]: timer tick
+2024-01-13 14:20:25.624241 [info]: timer tick
+2024-01-13 14:20:30.624284 [info]: timer tick
+2024-01-13 14:20:35.624347 [info]: timer tick
+2024-01-13 14:20:40.624431 [info]: timer tick
+2024-01-13 14:20:45.624489 [info]: timer tick
+2024-01-13 14:20:50.624541 [info]: timer tick
+2024-01-13 14:20:55.624595 [info]: timer tick
+2024-01-13 14:21:00.624653 [info]: timer tick
+2024-01-13 14:21:05.624702 [info]: timer tick
+2024-01-13 14:21:10.624760 [info]: timer tick
+2024-01-13 14:21:15.624826 [info]: timer tick
+2024-01-13 14:21:20.624886 [info]: timer tick
+2024-01-13 14:21:25.624942 [info]: timer tick
+2024-01-13 14:21:30.624992 [info]: timer tick
+2024-01-13 14:21:35.625054 [info]: timer tick
+2024-01-13 14:21:40.625126 [info]: timer tick
+2024-01-13 14:21:45.625205 [info]: timer tick
+2024-01-13 14:21:50.625278 [info]: timer tick
+2024-01-13 14:21:55.625332 [info]: timer tick
+2024-01-13 14:22:00.625374 [info]: timer tick
+2024-01-13 14:22:05.625430 [info]: timer tick
+2024-01-13 14:22:10.625483 [info]: timer tick
+2024-01-13 14:22:15.625525 [info]: timer tick
+2024-01-13 14:22:20.625604 [info]: timer tick
+2024-01-13 14:22:25.625657 [info]: timer tick
+2024-01-13 14:22:30.625695 [info]: timer tick
+2024-01-13 14:22:35.625744 [info]: timer tick
+2024-01-13 14:22:40.625812 [info]: timer tick
+2024-01-13 14:22:45.625878 [info]: timer tick
+2024-01-13 14:22:50.625942 [info]: timer tick
+2024-01-13 14:22:55.626007 [info]: timer tick
+2024-01-13 14:23:00.626060 [info]: timer tick
+2024-01-13 14:23:03.561193 [info]: deal with the client(115.156.142.216)
+2024-01-13 14:23:03.561257 [info]: adjust timer once
+2024-01-13 14:23:03.561304 [info]: GET / HTTP/1.1
+2024-01-13 14:23:03.561339 [info]: Host: 110.41.54.5:9006
+2024-01-13 14:23:03.561345 [info]: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2024-01-13 14:23:03.561349 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2024-01-13 14:23:03.561353 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-01-13 14:23:03.561356 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-01-13 14:23:03.561360 [info]: Accept-Encoding: gzip, deflate
+2024-01-13 14:23:03.561364 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-01-13 14:23:03.561367 [info]: Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7
+2024-01-13 14:23:03.561380 [info]: oop!unknow header: Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7
+2024-01-13 14:23:03.561383 [info]: Upgrade-Insecure-Requests: 1
+2024-01-13 14:23:03.561386 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-01-13 14:23:03.561389 [info]: 
+2024-01-13 14:23:03.561406 [info]: request:HTTP/1.1 200 OK
+
+2024-01-13 14:23:03.561412 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+
+2024-01-13 14:23:03.561416 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:close
+
+2024-01-13 14:23:03.561419 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:close
+
+
+2024-01-13 14:23:03.561943 [info]: close fd 16
+2024-01-13 14:23:05.626121 [info]: timer tick
+2024-01-13 14:23:10.626173 [info]: timer tick
+2024-01-13 14:23:12.341802 [info]: deal with the client(115.156.142.216)
+2024-01-13 14:23:12.341856 [info]: adjust timer once
+2024-01-13 14:23:12.341922 [info]: POST /0 HTTP/1.1
+2024-01-13 14:23:12.341956 [info]: Host: 110.41.54.5:9006
+2024-01-13 14:23:12.341960 [info]: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2024-01-13 14:23:12.341964 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2024-01-13 14:23:12.341968 [info]: Content-Length: 0
+2024-01-13 14:23:12.341972 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-01-13 14:23:12.341975 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-01-13 14:23:12.341978 [info]: Accept-Encoding: gzip, deflate
+2024-01-13 14:23:12.341981 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-01-13 14:23:12.341984 [info]: Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7
+2024-01-13 14:23:12.341987 [info]: oop!unknow header: Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7
+2024-01-13 14:23:12.341990 [info]: Cache-Control: max-age=0
+2024-01-13 14:23:12.341993 [info]: oop!unknow header: Cache-Control: max-age=0
+2024-01-13 14:23:12.341997 [info]: Content-Type: application/x-www-form-urlencoded
+2024-01-13 14:23:12.342000 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2024-01-13 14:23:12.342003 [info]: Origin: http://110.41.54.5:9006
+2024-01-13 14:23:12.342006 [info]: oop!unknow header: Origin: http://110.41.54.5:9006
+2024-01-13 14:23:12.342009 [info]: Referer: http://110.41.54.5:9006/
+2024-01-13 14:23:12.342012 [info]: oop!unknow header: Referer: http://110.41.54.5:9006/
+2024-01-13 14:23:12.342015 [info]: Upgrade-Insecure-Requests: 1
+2024-01-13 14:23:12.342018 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-01-13 14:23:12.342021 [info]: 
+2024-01-13 14:23:12.342037 [info]: request:HTTP/1.1 200 OK
+
+2024-01-13 14:23:12.342044 [info]: request:HTTP/1.1 200 OK
+Content-Length:724
+
+2024-01-13 14:23:12.342047 [info]: request:HTTP/1.1 200 OK
+Content-Length:724
+Connection:close
+
+2024-01-13 14:23:12.342050 [info]: request:HTTP/1.1 200 OK
+Content-Length:724
+Connection:close
+
+
+2024-01-13 14:23:12.342724 [info]: close fd 16
+2024-01-13 14:23:15.626229 [info]: timer tick
+2024-01-13 14:23:20.626289 [info]: timer tick
+2024-01-13 14:23:25.626341 [info]: timer tick
+2024-01-13 14:23:30.626403 [info]: timer tick
+2024-01-13 14:23:35.626446 [info]: timer tick
+2024-01-13 14:23:40.626506 [info]: timer tick
+2024-01-13 14:23:45.626561 [info]: timer tick
+2024-01-13 14:23:50.626624 [info]: timer tick
+2024-01-13 14:23:55.626671 [info]: timer tick
+2024-01-13 14:24:00.626724 [info]: timer tick
+2024-01-13 14:24:05.626764 [info]: timer tick
+2024-01-13 14:24:10.626820 [info]: timer tick
+2024-01-13 14:24:15.626886 [info]: timer tick
+2024-01-13 14:24:20.626951 [info]: timer tick
+2024-01-13 14:24:25.627006 [info]: timer tick
+2024-01-13 14:24:30.627071 [info]: timer tick
+2024-01-13 14:24:35.627117 [info]: timer tick
+2024-01-13 14:24:40.627177 [info]: timer tick
+2024-01-13 14:24:45.627223 [info]: timer tick
+2024-01-13 14:24:50.627267 [info]: timer tick
+2024-01-13 14:24:55.627314 [info]: timer tick
+2024-01-13 14:25:00.627389 [info]: timer tick
